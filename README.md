@@ -118,7 +118,7 @@ dependencies {
  License
 ---------
 
-    Copyright 2017 Sarabjeet Singh
+    Copyright 2020 Monica Labbao y Aspiras
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
