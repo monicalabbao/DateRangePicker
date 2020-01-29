@@ -24,9 +24,9 @@ apply plugin: 'com.android.library'
 //}
 
 ext {
-    PUBLISH_GROUP_ID = 'com.savvi.datepicker'
+    PUBLISH_GROUP_ID = 'com.monicalabbao.rangepicker'
     PUBLISH_ARTIFACT_ID = 'rangepicker'
-    PUBLISH_VERSION = '1.0.1'
+    PUBLISH_VERSION = '1.0.2'
 }
 
 android {
@@ -37,7 +37,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.2"
 
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
