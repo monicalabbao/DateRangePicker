@@ -1,17 +1,14 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportHeight="48"
-        android:viewportWidth="48"
-        android:tint="@color/calendar_selected_range_bg">
+    android:width="400dp"
+    android:height="400dp"
+    android:viewportWidth="400"
+    android:viewportHeight="400">
     <path
-        android:fillColor="#000"
-        android:pathData="M 24,8h-24v32h24z"
-        android:strokeColor="#000"
-        android:strokeWidth="1"/>
+        android:pathData="M0,20L193.55,20L193.55,400L0,400L0,20Z"
+        android:fillColor="#f3fbfd"
+        android:fillAlpha="1"/>
     <path
-        android:fillColor="#000"
-        android:pathData="M24,8 C 50,8 50,40 24, 40z"
-        android:strokeColor="#000"
-        android:strokeWidth="1"/>
+        android:pathData="M390,210C390,314.86 304.86,400 200,400C95.14,400 10,314.86 10,210C10,105.14 95.14,20 200,20C304.86,20 390,105.14 390,210Z"
+        android:fillColor="#f7e020"
+        android:fillAlpha="1"/>
 </vector>
