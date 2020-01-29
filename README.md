@@ -111,7 +111,7 @@ or into your build.gradle
 
 ```groovy
 dependencies {
-    compile 'com.savvi.datepicker:rangepicker:1.3.0'
+        implementation 'com.github.monicalabbao:DateRangePicker:Tag'
 }
 ```
 
