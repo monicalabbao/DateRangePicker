@@ -1,4 +1,4 @@
-package com.savvi.rangedatepicker;
+package com.monicalabbao.rangedatepicker;
 
 import java.util.ArrayList;
 import java.util.Calendar;

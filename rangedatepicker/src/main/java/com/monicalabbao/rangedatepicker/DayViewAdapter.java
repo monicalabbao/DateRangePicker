@@ -1,4 +1,4 @@
-package com.savvi.rangedatepicker;
+package com.monicalabbao.rangedatepicker;
 
 /** Adapter used to provide a layout for {@link CalendarCellView}.*/
 public interface DayViewAdapter {

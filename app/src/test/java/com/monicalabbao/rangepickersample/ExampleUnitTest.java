@@ -1,4 +1,4 @@
-package com.savvi.rangepickersample;
+package com.monicalabbao.rangepickersample;
 
 import org.junit.Test;
 

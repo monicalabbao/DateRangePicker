@@ -1,4 +1,4 @@
-package com.savvi.rangedatepicker;
+package com.monicalabbao.rangedatepicker;
 
 import android.view.ContextThemeWrapper;
 import android.view.Gravity;

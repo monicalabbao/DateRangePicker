@@ -1,4 +1,4 @@
-package com.savvi.rangepickersample;
+package com.monicalabbao.rangedatepicker;
 
 import android.content.Context;
 import androidx.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.savvi.rangepickersample", appContext.getPackageName());
+        assertEquals("com.savvi.rangedatepicker.test", appContext.getPackageName());
     }
 }

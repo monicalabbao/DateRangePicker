@@ -1,4 +1,4 @@
-package com.savvi.rangedatepicker;
+package com.monicalabbao.rangedatepicker;
 
 import android.content.Context;
 import android.content.res.ColorStateList;

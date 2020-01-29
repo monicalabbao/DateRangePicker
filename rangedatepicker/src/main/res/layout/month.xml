@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<com.savvi.rangedatepicker.MonthView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.monicalabbao.rangedatepicker.MonthView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical">
@@ -14,12 +14,12 @@
         android:layout_marginBottom="@dimen/calendar_month_title_bottommargin"
         android:gravity="center_horizontal" />
 
-    <com.savvi.rangedatepicker.CalendarGridView
+    <com.monicalabbao.rangedatepicker.CalendarGridView
         android:id="@+id/calendar_grid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-        <com.savvi.rangedatepicker.CalendarRowView
+        <com.monicalabbao.rangedatepicker.CalendarRowView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="@dimen/calendar_day_headers_paddingbottom">
@@ -58,7 +58,7 @@
                 style="@style/CalendarCell.DayHeader"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content" />
-        </com.savvi.rangedatepicker.CalendarRowView>
+        </com.monicalabbao.rangedatepicker.CalendarRowView>
 
         <include layout="@layout/week" />
 
@@ -71,5 +71,5 @@
         <include layout="@layout/week" />
 
         <include layout="@layout/week" />
-    </com.savvi.rangedatepicker.CalendarGridView>
-</com.savvi.rangedatepicker.MonthView>
+    </com.monicalabbao.rangedatepicker.CalendarGridView>
+</com.monicalabbao.rangedatepicker.MonthView>

@@ -1,12 +1,12 @@
-package com.savvi.rangepickersample;
+package com.monicalabbao.rangepickersample;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.savvi.rangedatepicker.CalendarPickerView;
-import com.savvi.rangedatepicker.SubTitle;
+import com.monicalabbao.rangedatepicker.CalendarPickerView;
+import com.monicalabbao.rangedatepicker.SubTitle;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

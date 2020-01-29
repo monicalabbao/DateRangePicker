@@ -5,9 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.savvi.rangepickersample.SampleActivity">
+    tools:context="com.monicalabbao.rangepickersample.SampleActivity">
 
-    <com.savvi.rangedatepicker.CalendarPickerView
+    <com.monicalabbao.rangedatepicker.CalendarPickerView
         android:id="@+id/calendar_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
