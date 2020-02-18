@@ -11,8 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/calendar_month_topmargin"
-        android:layout_marginBottom="@dimen/calendar_month_title_bottommargin"
-        android:gravity="center_horizontal" />
+        android:layout_marginBottom="@dimen/calendar_month_title_bottommargin" />
 
     <com.monicalabbao.rangedatepicker.CalendarGridView
         android:id="@+id/calendar_grid"
@@ -22,7 +21,8 @@
         <com.monicalabbao.rangedatepicker.CalendarRowView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingBottom="@dimen/calendar_day_headers_paddingbottom">
+            android:paddingBottom="@dimen/calendar_day_headers_paddingbottom"
+            android:visibility="gone">
 
             <TextView
                 style="@style/CalendarCell.DayHeader"
